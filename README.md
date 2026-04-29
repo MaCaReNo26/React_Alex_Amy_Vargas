@@ -77,10 +77,15 @@ Conocer la sintaxis de JavaScript y sus bases.
 ## Objetivo Especificos
 
 •	Configurar las herramientas para el laboratorio.
+
 •	Elaborar un documento con extensión .js.
+
 •	Revisar la sintaxis básica dentro de un documento JS.
+
 •	Revisar la sintaxis de programación dentro de un documento JavaScript.
+
 •	Visualizar los resultados obtenidos.
+
 
 ---
 

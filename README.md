@@ -89,6 +89,6 @@ Conocer la sintaxis de JavaScript y sus bases.
 
 ---
 
-## 👨‍💻 Autor
+## Autores
 
 Alex Suarez - Amy Díaz - Michael Vargas
